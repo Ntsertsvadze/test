@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj77TTkVsg1BQLA11SAW61h98W2bGX7yGS8g&s);
+    background-size: cover;
+    
+}
+
+form{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.664);
+    margin: 200px 540px;
+    padding: 20px 20px;
+}
+h1{
+    font-size: 22px;
+    color: white;
+}
+.adres{
+    background-color: white;
+}
+
+.password{
+    background-color: white;
+}
+
+.checkbox{
+    color:white;
+}
+ 
+.submit{
+    border: none;
+    color: black;
+    background-color:cornflowerblue;
+}
